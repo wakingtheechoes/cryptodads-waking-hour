@@ -17,3 +17,5 @@ ASK ME QUESTIONS!
 
 ## Resources
 https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
+https://discordpy.readthedocs.io/en/stable/
+https://replit.com/
